@@ -39,13 +39,13 @@ font-family: 'Roboto Serif', serif;
 .main-heading{
     font-family: 'Roboto Serif', serif;
     font-weight: 800;
-    font-size: 80px;
+    font-size: 5rem;
     margin-bottom: 10px;
 }
 
 .desc{
     font-family: 'Poppins', sans-serif;
-    font-size: 18px;
+    font-size: 1rem;
     margin-bottom: 20px;
 }
 
@@ -87,18 +87,18 @@ font-family: 'Roboto Serif', serif;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
     text-transform: capitalize;
-    font-size: 20px;
+    font-size: 1.5rem;
 }
 
 .item-desc{
     font-family: 'Poppins', sans-serif;
-    font-size: 18px;
+    font-size: 1.1rem;
     margin: 6px 0px 8px 0;
 }
 
 .about-link{
     font-family: 'Poppins', sans-serif;
-    font-size: 18px;
+    font-size: 1.1rem;
     text-decoration: none;
 }
 /*Qualities Section Ends*/
@@ -127,7 +127,7 @@ font-family: 'Roboto Serif', serif;
 
 .about-heading{
     font-family: 'Roboto Serif', serif;
-    font-size: 45px;
+    font-size: 3rem;
 }
 
 .line{
@@ -139,31 +139,8 @@ font-family: 'Roboto Serif', serif;
 
 .about-desc{
     font-family: 'Poppins', sans-serif;
-    font-size: 18px;
+    font-size: 1.1rem;
     margin: 15px 0;
-}
-
-.info{
-    display: flex;
-    width: 100%;
-}
-
-.info-item{
-    max-width: 35%;
-    margin-right: 50px;
-}
-
-.info-heading{
-    font-size: 50px;
-}
-
-.info-heading span{
-    color: red;
-}
-
-.info-desc{
-    font-family: 'Poppins', sans-serif;
-    font-size: 15px;
 }
 /*About Section Ends*/
 /*Specs Section Begins*/
@@ -176,18 +153,12 @@ font-family: 'Roboto Serif', serif;
 
 .section-heading{
     font-family: 'Roboto serif', serif;
-    font-size: 50px;
+    font-size: 4rem;
     text-align: center;
 }
 
 .specs-section .line{
     margin: 10px auto;
-}
-
-.specs-desc{
-    font-family: 'Poppins', sans-serif;
-    font-size: 18px;
-    text-align: center;
 }
 
 .content{
@@ -226,10 +197,12 @@ font-family: 'Roboto Serif', serif;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     margin-bottom: 5px;
+    font-size: 1.3rem;
 }
 
 .spec-item p{
     font-family: 'Poppins', sans-serif;
+    font-size: 1.09rem;
 }
 /*Specs Section Ends*/
 
@@ -256,8 +229,13 @@ font-family: 'Roboto Serif', serif;
 
 .testimonial h4 {
     font-family: 'Poppins', sans-serif;
-    font-size: 18px;
+    font-size: 1.5rem;
     font-style: italic;
+}
+
+.testimonial p {
+    font-size: 1.1rem;
+    font-family: 'Poppins', sans-serif;
 }
 
 .testimonial img{
@@ -297,7 +275,7 @@ font-family: 'Roboto Serif', serif;
         padding: 0 20px;
     }
     .main-heading{
-        font-size: 40px;
+        font-size: 3rem;
     }
 
     .img{
@@ -324,7 +302,7 @@ font-family: 'Roboto Serif', serif;
     }
 
     .item-desc{
-        font-size: 16px;
+        font-size: 1rem;
     }
     /*Qualities Section Ends*/
     /*About Section Begins*/
@@ -345,7 +323,7 @@ font-family: 'Roboto Serif', serif;
     }
     
     .about-heading{
-        font-size: 35px;
+        font-size: 2.5rem;
         margin-top: 10px;
     }
     
@@ -354,7 +332,7 @@ font-family: 'Roboto Serif', serif;
     }
     
     .about-desc{
-        font-size: 16px;
+        font-size: 1rem;
     }
     /*About Section Ends*/
     /*Specs Section Begins*/
@@ -363,11 +341,7 @@ font-family: 'Roboto Serif', serif;
     }
     
     .section-heading{
-        font-size: 35px;
-    }
-    
-    .specs-desc{
-        font-size: 16px;
+        font-size: 2.5rem;
     }
     
     .content{
@@ -395,7 +369,7 @@ font-family: 'Roboto Serif', serif;
     }
 
     .testimonial .section-heading{
-        font-size: 35px;
+        font-size: 2.5rem;
     }
     
     .testimonial-content{
